@@ -1,4 +1,5 @@
-setwd("C:/Users/mattb/OneDrive/GitHub/ngfs-credit-ratings")
+# Adapt the setwd() command below to whatever directory you place this folder in.
+# setwd("...../climate-policy-sovereign-risk")
 source("src/1-packages.r")
 source("src/2-prep_ngfs_data.r")
 source("src/3-datacleaning.r")
